@@ -2,14 +2,8 @@
 Prediction of crustal magnetic anomaly (total magnetic observation - reference model) by using a supervised ML modeling.
 
 ## Datasets
-### Harmonized Datasets
-The harmonized datasets directory contains datasets that have been processed and standardized for use in machine learning algorithms.
-
-### Metadata
-The metadata directory stores additional information about the datasets, such as data sources, variable descriptions, and any preprocessing steps applied.
-
-### Original Datasets
-The originals directory holds the original, raw datasets obtained for the MagNav project before any processing or standardization.
+### (dataset title)
+dataset description
 
 ## Literature
 ### Magnetic Maps and Models for Alternative Navigation.pdf
