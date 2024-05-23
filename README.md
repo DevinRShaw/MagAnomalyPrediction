@@ -19,7 +19,7 @@ This notebook implements a methodology for ranking predictors based on their sta
 
 ---
 
-## Literature
+## Literature Resources 
 ### Magnetic Maps and Models for Alternative Navigation.pdf
 This paper explores various magnetic maps and models and their applicability to alternative navigation methods, providing insights into potential approaches for magnetic navigation.
 
