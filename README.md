@@ -24,8 +24,8 @@ This notebook implements a methodology for ranking predictors based on their sta
 This paper explores various magnetic maps and models and their applicability to alternative navigation methods, providing insights into potential approaches for magnetic navigation.
 
 ### Magnetic Grid Resolution Enhancement Using Machine Learning.pdf
-The paper presents a methodology for enhancing the resolution of magnetic grids using machine learning techniques, offering potential insights for improving the resolution of magnetic anomaly grids in the MagNav project.
+The paper presents a methodology for enhancing the resolution of magnetic grids using machine learning techniques, offering potential insights for improving the resolution of magnetic anomaly grids in the MagneticAnomalyPrediction project.
 
 ### Predicting Marine In Situ Heat Flow Using a Geospatial Machine Learning Conformal.pdf
-This paper discusses the use of geospatial machine learning techniques for predicting marine in situ heat flow, showcasing methodologies that may be adapted for predicting magnetic anomaly grids in the MagNav project.
+This paper discusses the use of geospatial machine learning techniques for predicting marine in situ heat flow, showcasing methodologies that may be adapted for predicting magnetic anomaly grids in the MagneticAnomalyPrediction project.
 
