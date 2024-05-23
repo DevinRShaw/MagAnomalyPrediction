@@ -3,19 +3,19 @@ Prediction of crustal magnetic anomaly (total magnetic observation - reference m
 
 ## Datasets
 ### (dataset titles)
-dataset descriptions
+(dataset descriptions)
 
 ---
 
 ## Notebooks
 ### first_predictor_harmonize.ipynb
-This notebook is used to harmonize the first predictor dataset, preparing it for use in machine learning algorithms.
+This notebook is used to harmonize (arbitrary first predictor dataset). This serves as the example method for generalizing the harmonization of predictor datasets. 
 
 ### general_predictors_harmonize.ipynb
-The notebook focuses on harmonizing general predictors, ensuring consistency and compatibility across different predictor datasets.
+This notebook builds on first_predictor_harmonize.ipynb. Generalizes the harmonization process for remaining predictor datasets. 
 
 ### predictors_ranking.ipynb
-This notebook implements a methodology for ranking predictors based on their relevance and contribution to the machine learning models used in the MagNav project.
+This notebook implements a methodology for ranking predictors based on their statistical correlation to (target dataset). This is intended to give more context to the relation between predictors and (target) when training models. 
 
 ---
 
