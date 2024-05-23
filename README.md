@@ -1,8 +1,6 @@
 # MagneticAnomalyPrediction
 Prediction of crustal magnetic anomaly (total magnetic observation - reference model) by using a supervised ML modeling.
 
-# MagNav Machine Learning Repository
-
 ## Datasets
 ### Harmonized Datasets
 The harmonized datasets directory contains datasets that have been processed and standardized for use in machine learning algorithms.
